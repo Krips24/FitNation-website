@@ -10,6 +10,8 @@ Welcome to FitNation, a fitness website that promotes a healthy and active lifes
 - [Contributing](#contributing)
 - [License](#license)
 
+<hr>
+
 ### About
 FitNation is a comprehensive fitness website that provides users with a range of resources and tools to support their fitness journey. Whether you're a beginner or an experienced fitness enthusiast, FitNation offers a wide variety of workout routines, exercise tutorials, nutrition tips, and much more. Our goal is to inspire and empower individuals to live a healthier life through exercise and proper nutrition.
 
