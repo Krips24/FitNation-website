@@ -15,6 +15,15 @@ Welcome to FitNation, a fitness website that promotes a healthy and active lifes
 ### About
 FitNation is a comprehensive fitness website that provides users with a range of resources and tools to support their fitness journey. Whether you're a beginner or an experienced fitness enthusiast, FitNation offers a wide variety of workout routines, exercise tutorials, nutrition tips, and much more. Our goal is to inspire and empower individuals to live a healthier life through exercise and proper nutrition.
 
+![image](https://github.com/Krips24/FitNation-website/assets/109458778/1ada7b2d-978d-4b3f-824b-d06918aa9777) 
+
+![image](https://github.com/Krips24/FitNation-website/assets/109458778/22454062-9121-4498-8a4e-b5a1afb861b3)
+
+![image](https://github.com/Krips24/FitNation-website/assets/109458778/cc777b1e-50fa-432e-97be-22baea29916c)
+
+![image](https://github.com/Krips24/FitNation-website/assets/109458778/ff725475-e939-4391-b927-bc7ecb4680e3)
+
+
 <hr>
 
 ### Features
